@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "sn-data": {
+      "url": "https://shikshannivesh.com/mcp",
+      "headers": { "Authorization": "Bearer ${env:SN_KEY}" }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "sn-data": {
+      "type": "http",
+      "url": "https://shikshannivesh.com/mcp",
+      "headers": { "Authorization": "Bearer ${SN_KEY}" }
+    }
+  }
+}
