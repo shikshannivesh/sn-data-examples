@@ -9,7 +9,7 @@ Three ways in:
 | Python | The REST API at `https://shikshannivesh.com/api/v1` | [python/](python/) |
 | Excel and Google Sheets | Ready workbooks, or live data with Power Query | [excel/](excel/) |
 | AI assistants | A remote MCP server for Claude, ChatGPT, Gemini, Claude Code, Codex | [ai-assistants/](ai-assistants/) |
-| Agent skill | A SKILL.md that tells an AI agent how to use SN Data | [skills/sn-data/](skills/sn-data/SKILL.md) |
+| Agent skill | A SKILL.md that tells an AI agent how to use SN Data | Four skills (financial statements, insider trades, 13F holdings, 8-K events): [github.com/shikshannivesh/skills](https://github.com/shikshannivesh/skills) |
 
 ## Get a key
 
